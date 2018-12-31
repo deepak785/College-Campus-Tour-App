@@ -1,3 +1,4 @@
-# VR-App
+# COLLEGE CAMPUS 360 TOUR APP
+### Based on Virtual Reality Technology
 
-### This is project on VR app which show the 360 view of college campus 
+ Designed and Developed College Campus Tour App that show 360 view of entire campus.
